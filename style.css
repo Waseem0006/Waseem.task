@@ -1,7 +1,7 @@
-/* Styling for the name */
+
 #name {
-    color: blue; /* Text color */
-    font-size: 40px; /* Adjust font size */
-    text-align: center; /* Center the text */
+    color: blue;
+    font-size: 40px;
+    text-align: center; 
     margin-top: 40px;
 }
